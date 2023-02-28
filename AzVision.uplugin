@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AzVision",
+	"Description": "Integrates Microsoft Azure Custom Vision in Unreal Engine via REST",
+	"Category": "Game Features",
+	"CreatedBy": "Lucas Vilas-Boas",
+	"CreatedByURL": "https://github.com/lucoiso",
+	"DocsURL": "https://github.com/lucoiso/UEAzVision/wiki",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/lucoiso/UEAzVision/issues",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "AzVision",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
